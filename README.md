@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi, I'm Akshar Patel 👋
 
-<!--
-**Akshar-Patel/Akshar-Patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 4+ Years of Flutter Development Experience.
+- Developed 15+ Mobile Apps using Flutter Framework.
+- Worked as Team Lead to build the apps from scratch.
+- 7+ Years of Overall Software Development Experience.
+- Reviewed 500+ Projects as Project Reviewer from Java, C++, Python, and DevOps for Udacity.
+- Completed 25+ Projects including Apps, Backend APIs and Cloud Infrastructure.
+- Decreased Cloud cost for a startup by 70% using custom python scripts deployed in the compute engine.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 I'm currently working as Senior Flutter Developer at [Somnio Software](https://somniosoftware.com). 
+- 🌱 I'm currently learning [What You're Learning]
+- 💬 Ask me about [Flutter](https://flutter.dev/)
+- 📫 How to reach me: hello@aksharpatel.in, [linkedin.com/in/akshar-patel-in](https://linkedin.com/in/akshar-patel-in)
+- 😄 Pronouns: He/Him
+
+### Technical Skills
+
+- Proficient in: Flutter, Dart, Firebase, Bloc
+- Comfortable with: Git, Typescript, NodeJs, Google Cloud
+- Has worked with: AWS, Python, Bash, Hadoop, Spark
