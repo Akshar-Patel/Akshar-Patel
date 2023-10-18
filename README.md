@@ -10,8 +10,8 @@
 
 ## About Me
 
-- 💼 I'm currently working as Senior Flutter Developer at [Somnio Software](https://somniosoftware.com). 
-- 🌱 I'm currently learning [What You're Learning]
+- 💼 I'm currently working as Senior Flutter Developer at [Somnio Software](https://somniosoftware.com)
+- 🌱 I'm currently learning FlutterFlow
 - 💬 Ask me about [Flutter](https://flutter.dev/)
 - 📫 How to reach me: hello@aksharpatel.in, [linkedin.com/in/akshar-patel-in](https://linkedin.com/in/akshar-patel-in)
 - 😄 Pronouns: He/Him
