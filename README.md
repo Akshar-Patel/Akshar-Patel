@@ -1,11 +1,11 @@
 # Hi, I'm Akshar Patel 👋
 
-- 4+ Years of Flutter Development Experience.
-- Developed 15+ Mobile Apps using Flutter Framework.
+- 6+ Years of Flutter Development Experience.
+- Developed 20+ Mobile Apps using Flutter Framework.
 - Worked as Team Lead to build the apps from scratch.
-- 7+ Years of Overall Software Development Experience.
+- 10+ Years of Overall Software Development Experience.
 - Reviewed 500+ Projects as Project Reviewer from Java, C++, Python, and DevOps for Udacity.
-- Completed 25+ Projects including Apps, Backend APIs and Cloud Infrastructure.
+- Completed 30+ Projects including Apps, Backend APIs and Cloud Infrastructure.
 - Decreased Cloud cost for a startup by 70% using custom python scripts deployed in the compute engine.
 
 ## About Me
